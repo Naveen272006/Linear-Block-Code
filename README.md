@@ -114,6 +114,8 @@ corrected = (np.array(rc) + err) % 2
 print(f"\nCorrected codeword: {' '.join(map(str, corrected))}")
 ```
 ## Output
+![Screenshot 2025-04-12 154152](https://github.com/user-attachments/assets/33a629a9-d88a-4fc2-9d5e-acea4f96b04c)
+![Screenshot 2025-04-12 154043](https://github.com/user-attachments/assets/350f0161-7541-4791-b104-5a336eb994e9)
 
 
 ## Results
