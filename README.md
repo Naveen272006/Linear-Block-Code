@@ -114,8 +114,15 @@ corrected = (np.array(rc) + err) % 2
 print(f"\nCorrected codeword: {' '.join(map(str, corrected))}")
 ```
 ## Output
-![Screenshot 2025-04-12 154152](https://github.com/user-attachments/assets/33a629a9-d88a-4fc2-9d5e-acea4f96b04c)
-![Screenshot 2025-04-12 154043](https://github.com/user-attachments/assets/350f0161-7541-4791-b104-5a336eb994e9)
+![Screenshot 2025-04-12 174802      11111111111](https://github.com/user-attachments/assets/e5b49d64-d832-4995-a8e0-60bac9c98271)
+![Screenshot 2025-04-12 174924          000000000](https://github.com/user-attachments/assets/09467c0c-183f-4f24-a3c6-30ffe5bed9d3)
+
+
+
+## Calculation
+![image](https://github.com/user-attachments/assets/c92e3f7b-e1f3-4c35-bbc5-56fadca4ecfe)
+![image](https://github.com/user-attachments/assets/d6f02a10-dc2e-4e13-8441-795fb2bcc74a)
+
 
 
 ## Results
